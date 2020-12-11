@@ -4,11 +4,9 @@
 
 - 🌱 I’m currently learning about security protocols in Ethereum. 
 
-- 📫 How to reach me: 
--- My email: atefeh@ucsb.edu
--- My [LinkedIn]: (https://www.linkedin.com/in/atefeh-mohseni-02b03773/)
-
 - 😄 Pronouns: She/Her
+
+- ⚡ Fun fact: I've staretd my journey in Information Technology in 2011, but only recently I've started using wireless products! 
 
 ## Technical Skills
 <p float="left">
@@ -44,6 +42,9 @@
    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/snort.png"  height="75" />
    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/wireshark.png"  height="75" />
 </p>
- 
-- ⚡ Fun fact: 
-I've staretd my journey in Information Technology in 2011, but only recently I've started using wireless products! :D 
+
+
+## 📫 How to reach me: 
+  ⦿ Connect with me on [LinkedIn] (https://www.linkedin.com/in/atefeh-mohseni-02b03773/)<br>
+  ⦿ Email me [here](mailto:atefeh@ucsb.edu) <br>
+
