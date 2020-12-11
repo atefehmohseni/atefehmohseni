@@ -45,6 +45,6 @@
 
 
 ## 📫 How to reach me: 
-  ⦿ Connect with me on [LinkedIn] (https://www.linkedin.com/in/atefeh-mohseni-02b03773/)<br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/atefeh-mohseni-02b03773/)<br>
   ⦿ Email me [here](mailto:atefeh@ucsb.edu) <br>
 
