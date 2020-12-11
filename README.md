@@ -16,8 +16,6 @@
    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/solidity.png"  height="75" /> 
    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/javascript.png" height="75" />
    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/html.png"  height="75" />
-   <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/csharp.png"  height="75" />
-
  </p>
 
 ## Security and Networking
@@ -46,8 +44,7 @@
    <img src="https://raw.githubusercontent.com/atefehmohseni/atefehmohseni/master/asset/blockchain.png"  height="75" />
    <img src="https://raw.githubusercontent.com/atefehmohseni/atefehmohseni/master/asset/spark.png"  height="75" />
  </p>
- 
- ## Leadership
+
  
 - ⚡ Fun fact: 
 I've staretd my journey in Information Technology in 2011, but only recently I've started using wireless products! :D 
