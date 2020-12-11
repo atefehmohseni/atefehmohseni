@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭I am Atefeh, a graduate research student at University of California, Santa Barbara. My research focus is security and blockchain.
+- 🔭 I am Atefeh, a graduate research student at University of California, Santa Barbara. My research focus is security and blockchain.
 
 - 🌱 I’m currently learning about security protocols in Ethereum. 
 
