@@ -26,7 +26,7 @@
 <p float="left">
    <img src="https://raw.githubusercontent.com/atefehmohseni/atefehmohseni/master/assets/snort.png"  height="75" />
    <img src="https://raw.githubusercontent.com/atefehmohseni/atefehmohseni/master/assets/wiresahrk.png"  height="75" />
-   <img src="https://raw.githubusercontent.com/atefehmohseni/atefehmohseni/master/assets/aws.png" width="75" />
+   <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/aws.png" width="75" />
 </p>
  
 ## Tools and Platform
