@@ -14,6 +14,8 @@
    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/solidity.png"  height="75" /> 
    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/javascript.png" height="75" />
    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/html.png"  height="75" />
+   <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/linux.webp"  height="75" />
+
  </p>
 
 ## Tools and Platform
