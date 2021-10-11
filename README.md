@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: She/Her
 
-- ⚡ Fun fact: I've staretd my journey in Information Technology in 2011, but only recently I've started using wireless products! 
+- ⚡ Fun fact: I need to know the story behind the products I use! Like Robinhood app, my cleasnser or even my car! 
 
 ## Technical Skills
 <p float="left">
