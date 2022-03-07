@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I am Atefeh, a graduate student researcher at University of California, Santa Barbara. My research focus on security and blockchain.
+- 🔭 I am Atefeh, a graduate researcher at University of California, Santa Barbara. My research focus on security and blockchain.
 
 - 🌱 I’m currently learning about security protocols in Ethereum. 
 
 - 😄 Pronouns: She/Her
 
-- ⚡ Fun fact: I need to know the story behind the products I use! Like Robinhood app, my cleasnser or even my car! 
+- ⚡ Fun fact: I need to know the story behind the products I use! 
 
 ## Technical Skills
 <p float="left">
