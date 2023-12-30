@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I am Atefeh, a graduate researcher at University of California, Santa Barbara. My research focus on security and blockchain.
+- 🔭 I am Atefeh, software engineer and former graduate researcher at University of California, Santa Barbara. My research focus on security and blockchain.
 
-- 🌱 I’m currently learning about security protocols in Ethereum. 
-
-- 😄 Pronouns: She/Her
+- 🌱 I’m currently developing [Gitness](https://gitness.com/). 
 
 - ⚡ Fun fact: I need to know the story behind the products I use! 
 
