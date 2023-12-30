@@ -10,39 +10,37 @@
 
 ## Technical Skills
 <p float="left">
+   <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/go.png" height="75"/>
+   <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/cpp.png" height="75"/>
+    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/csharp.png" height="75"/>
    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/python.webp"  height="75" />
    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/solidity.png"  height="75" /> 
    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/javascript.png" height="75" />
-   <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/html.png"  height="75" />
-   <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/linux.webp"  height="75" />
-
  </p>
 
 ## Tools and Platform
 <p float="left">
-
+   <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/git.png" height="75" />
+      <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/linux.webp"  height="75" />
    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/ethereum.png"  height="75" />
-
    <img src="https://raw.githubusercontent.com/atefehmohseni/atefehmohseni/master/asset/blockchain.png"  height="75" />
-   
-   <a href="https://www.trufflesuite.com/ganache" target="_blank" >
-    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/ganache.png"  height="75" />
-  </a>
-  <a href="https://www.trufflesuite.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/atefehmohseni/atefehmohseni/master/asset/truffle.png" width="75" />
-  </a>
+   <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/k8s.png"  height="75" />
+<img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/gcp.png"  height="75" />
+   <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/aws.png" height="75" />
+
   <a href="https://metamask.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/atefehmohseni/atefehmohseni/master/asset/metamask.png"  height="75" />
   </a>
    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/restapi.png"  height="75" /> 
    <img src="https://raw.githubusercontent.com/atefehmohseni/atefehmohseni/master/asset/spark.png"  height="75" />
-   <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/aws.png" height="75" />
  </p>
 
  ## Security and Networking
 <p float="left">
    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/snort.png"  height="75" />
    <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/wireshark.png"  height="75" />
+   <img src="https://github.com/atefehmohseni/atefehmohseni/blob/main/asset/tcpd.png"  height="75" />
+
 </p>
 
 
